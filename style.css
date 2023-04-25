@@ -156,13 +156,13 @@ select {
 
 /* main */
 main {
-  width: min(75rem, 95%);
+  width: min(70rem, 95%);
   display: grid;
   gap: 2rem;
 }
 
 .testimonial {
-  padding: 2em 3em;
+  padding: 2em 2.6em;
   border-radius: 9px;
 }
 
